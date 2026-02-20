@@ -1,4 +1,9 @@
-# Ali Yahyaoui
+<h1 align="space">
+  Ali Yahyaoui 
+  <span style="float: right;">
+    <img src="https://skillicons.dev/icons?i=python,java,postgresql,redis,docker,fastapi&perline=6" height="35" />
+  </span>
+</h1>
 
 Software Engineer specialized in backend systems and data engineering, currently working as a Data Engineer at **Wiremind (Cargo team)**.
 
@@ -24,18 +29,21 @@ System Design, Performance Optimization, Software Quality
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyehiawi&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyehiawi&layout=compact&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aliyehiawi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=Ali%20Yahyaoui's%20GitHub%20Stats)
+
+</div>
 
 ---
 
-## Contribution Graph
+## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aliyehiawi/aliyehiawi/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/aliyehiawi/aliyehiawi/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
