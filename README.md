@@ -1,98 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ali Yahyaoui</h1>
-<h3 align="center">Software Engineering Student | Backend & Full-Stack Engineer | Product-Minded</h3>
+# Ali Yahyaoui
+
+Software Engineer specialized in backend systems and data engineering, currently working as a Data Engineer at **Wiremind (Cargo team)**.
+
+I work on industrializing data pipelines and machine learning components powering air cargo forecasting, overbooking strategies, and revenue optimization. My role covers the full data value chain: ingesting and validating operational airline data, transforming and structuring it in production-grade warehouses, deploying forecasting and optimization processes, and continuously improving reliability, performance, and observability.
+
+My daily stack revolves around Python (FastAPI, asynchronous processing, SQLAlchemy), PostgreSQL, Redis, and production data workflows. I focus strongly on clean architecture, modular design, testing, CI/CD, monitoring, and reducing technical debt. I am particularly interested in the intersection of data engineering, MLOps, and scalable backend systems.
+
+Previously, I worked extensively with Java and Spring Boot, designing secure APIs, distributed systems, and enterprise-grade backend applications. I care deeply about code quality, robustness, and building systems that remain maintainable under real-world production constraints.
+
+I approach engineering with a product mindset: understanding business constraints, clarifying ambiguity, and delivering pragmatic, reliable solutions.
+
+---
+
+## Tech Focus
+
+Backend Engineering, Data Engineering, Distributed Systems, MLOps
+Python, FastAPI, Java, Spring Boot
+PostgreSQL, Redis, SQL
+Docker, CI/CD, Testing, Observability
+System Design, Performance Optimization, Software Quality
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://ali-yahyaoui.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ali-yahyaoui-a49a6421b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ali.yehiawii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyehiawi&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyehiawi&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Master’s student in Software & Hardware Engineering** (UJM & École des Mines – Saint-Étienne)
-- 🧠 Product-minded engineer who enjoys **owning problems end-to-end**
-- ⚙️ Strong focus on **backend systems, APIs, security, and testing**
-- 🧪 Highly interested in **Testing, Code Quality & Automation**
-- 🚀 Looking for a **Software Engineering Internship (Stage)**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Backend & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,python,dotnet" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,vue" />
-</p>
-
-### 🗄️ Data & Messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
-</p>
-
-### 🔐 DevOps, Security & Quality
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,bash" />
-  <img src="https://img.shields.io/badge/Keycloak-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-</p>
-
-### 🧪 Testing & Automation
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Project
-
-### 🌊 Water Level Monitoring System
-**Java | Spring Boot | MQTT | WebSocket | Docker | Vue | Kotlin**
-
-- End-to-end monitoring & pump-control platform
-- Secure authentication (JWT + RBAC)
-- Real-time streaming via WebSocket
-- CI/CD with tests, coverage & Sonar quality gates
-- Dockerized API & broker
-
-🔗 **Repo:** https://github.com/aliyehiawi/water-level-monitoring-backend
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyehiawi&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyehiawi&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyehiawi&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aliyehiawi/aliyehiawi/output/github-contribution-grid-snake.svg"/>
@@ -100,10 +39,12 @@
 
 ---
 
-## 📫 Let’s Connect
+## Contact
 
-- 🌐 Portfolio: **https://ali-yahyaoui.vercel.app/**
-- 💼 LinkedIn: **Ali Yahyaoui**
-- 📧 Email: **ali.yehiawii@gmail.com**
+Portfolio: [https://ali-yahyaoui.vercel.app/](https://ali-yahyaoui.vercel.app/)
 
-> *I enjoy building reliable systems, improving code quality, and turning ambiguous requirements into clean, secure solutions.*
+LinkedIn: [https://www.linkedin.com/in/ali-yahyaoui-a49a6421b/](https://www.linkedin.com/in/ali-yahyaoui-a49a6421b/)
+
+Email: [ali.yehiawii@gmail.com](mailto:ali.yehiawii@gmail.com)
+
+---
