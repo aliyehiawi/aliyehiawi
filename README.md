@@ -1,9 +1,4 @@
-<h1 align="space">
-  Ali Yahyaoui 
-  <span style="float: right;">
-    <img src="https://skillicons.dev/icons?i=python,java,postgresql,redis,docker,fastapi&perline=6" height="35" />
-  </span>
-</h1>
+# Ali Yahyaoui <img align="right" src="https://skillicons.dev/icons?i=python,java,postgresql,redis,docker,fastapi&perline=6" height="35" />
 
 Software Engineer specialized in backend systems and data engineering, currently working as a Data Engineer at **Wiremind (Cargo team)**.
 
