@@ -1,6 +1,6 @@
 # Ali Yahyaoui <img align="right" src="https://skillicons.dev/icons?i=python,java,postgresql,redis,docker,fastapi&perline=6" height="35" />
 
-Software Engineer specialized in backend systems and data engineering, currently working as a Data Engineer at **Wiremind (Cargo team)**.
+Software Engineer specialized in backend systems and data engineering.
 
 I work on industrializing data pipelines and machine learning components powering air cargo forecasting, overbooking strategies, and revenue optimization. My role covers the full data value chain: ingesting and validating operational airline data, transforming and structuring it in production-grade warehouses, deploying forecasting and optimization processes, and continuously improving reliability, performance, and observability.
 
